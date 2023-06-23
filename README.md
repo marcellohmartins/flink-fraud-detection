@@ -1,6 +1,6 @@
-# Project Title
+# Simple Fraud Detection
 
-Short description or overview of your project.
+Simple Flink project based on the [Flink Docs](https://nightlies.apache.org/flink/flink-docs-release-1.17/docs/try-flink/datastream/)
 
 ## Prerequisites
 
